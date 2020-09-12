@@ -1,5 +1,5 @@
 ''' 
-Personal library for useful functions; Soumik Bhattacharyya, Roll-1811155
+Personal python library of useful functions; Soumik Bhattacharyya, Roll-1811155
 
 This includes all necessary funcions used in P342,
 but the ones that are required in the current week, are placed at the top.
